@@ -16,3 +16,10 @@
 
 **A walkthrough video:**
 https://youtu.be/bKdOnN44bT8
+
+**Notes**
+-That is my first time making a project with Pygame so I had to ask an AI for help in chalenging codes.
+-I used GitHub Copilot to help me in the code sometimes.
+-I used AI for instruction on how to make the game in .exe format and how to download Pygame and Python and so on.
+-All the drawings I used in this game are hand drawn by me (I recorded most of them on Lapse)
+
