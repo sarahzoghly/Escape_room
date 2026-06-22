@@ -18,6 +18,7 @@
 https://youtu.be/bKdOnN44bT8
 
 **Notes**
+
 -That is my first time making a project with Pygame so I had to ask an AI for help in challenging codes.
 
 -I used GitHub Copilot to help me in the code workspace sometimes.
