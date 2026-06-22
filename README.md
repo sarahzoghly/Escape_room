@@ -1,8 +1,8 @@
-### Escape_room
+# Escape_room
 
 ## The first level of an escape room game. 
 
-# How to play
+### How to play
 
 -Extract the compressed "Escape_Room" file in release.
 -Click the pencil icon titled "Escape_Room".
